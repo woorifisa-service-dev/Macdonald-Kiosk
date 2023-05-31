@@ -15,13 +15,13 @@ public class Customer implements Action {
 	public void action(Menu menu) {
 		
 		int count = 0;
-		System.out.println("1.매장\n2.포장\n 번호를 선택해주세요");
+		System.out.println("1.매장\n2.포장\n번호를 선택해주세요");
 		int type = 0;
 		while (count < 3) {
 			type = sc.nextInt();
 			if (!(type==1 || type==2)) {
 				count++;
-				System.out.println("1.매장\n2.포장\n 번호를 다시 입력해주세요.");
+				System.out.println("1.매장\n2.포장\n번호를 다시 입력해주세요.");
 			} else {
 				break;
 			}

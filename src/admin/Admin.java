@@ -33,7 +33,7 @@ public class Admin implements Action{
 			
 		} else if(input.equals("메뉴삭제")) {
 			menu.allMenu();
-			System.out.println("\n 삭제할 메뉴 번호를 입력하세요");
+			System.out.println("\n삭제할 메뉴 번호를 입력하세요");
 			int deletedMenuIndex = sc.nextInt();
 			
 			menu.deleteMenu(deletedMenuIndex);
