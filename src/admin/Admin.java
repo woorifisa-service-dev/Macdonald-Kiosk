@@ -20,11 +20,11 @@ public class Admin implements Action{
 		if(input.equals("메뉴추가")) {
 			System.out.println("추가할 메뉴 이름을 입력하세요");
 			String newMenuName = sc.next();
-			System.out.println("추가할 메뉴의 가격을 입력하세요");
+			System.out.println("추가할 메뉴의 가격을 입력하세요(숫자만 입력하세요)");
 			int newMenuPrice = sc.nextInt();
 			System.out.println("추가할 메뉴의 카테고리를 입력하세요");
 			String newMenuCategory = sc.next();
-			System.out.println("추가할 메뉴의 칼로리를 입력하세요");
+			System.out.println("추가할 메뉴의 칼로리를 입력하세요(숫자만 입력하세요)");
 			int newMenuCalorie = sc.nextInt();
 			
 			MenuItem newMenuItem = new MenuItem(newMenuName, newMenuPrice, newMenuCategory, newMenuCalorie);
