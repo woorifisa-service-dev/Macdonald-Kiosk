@@ -9,15 +9,16 @@
 손님인 경우에는 주문, 관리자인 경우에는 메뉴 추가/삭제를 할 수 있습니다.
 
 
-### 클래스 다이어그램
+## 클래스 다이어그램
 
-[클래스 다이어그램](http://www.example.com)
+![맥도날드 키오스크](https://github.com/xotlr333/java-first-project/assets/81614820/4594f597-d901-4ae7-8942-3acee6f900c3)
 
-### 실행결과(손님)
+
+## 실행결과(손님)
 
 ![손님 실행결과](https://github.com/xotlr333/java-first-project/assets/81614820/3244da5b-fabc-455d-8f0a-053a7e078ffa)
 
-### 실행결과(관리자)
+## 실행결과(관리자)
 
-[관리자 실행결과](http://www.example.com)
+![image](https://github.com/xotlr333/java-first-project/assets/81614820/0d53b36d-3130-411c-83cc-aec57a81d039)
 
