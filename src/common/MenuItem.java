@@ -15,7 +15,7 @@ public class MenuItem {
 	
 	@Override
 	public String toString() {
-		return "메뉴명 : " + name + ", 가격 : " + price + "원" + ", 칼로리 : " + calorie + "kcal";
+		return "메뉴명 : " + name + ", 가격 : " + price + ", 칼로리 : " + calorie + "";
 	}
 	
 	
