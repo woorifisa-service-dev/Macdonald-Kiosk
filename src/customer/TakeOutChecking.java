@@ -13,9 +13,9 @@ public class TakeOutChecking {
 	
 	public String oneTakeChecking() {
 		if(type==1) {
-			return "¸ÅÀå";
+			return "ë§¤ì¥";
 		}else {
-			return "Æ÷Àå";
+			return "í¬ì¥";
 		}
 	}
 	
