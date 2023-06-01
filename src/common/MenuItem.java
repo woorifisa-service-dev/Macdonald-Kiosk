@@ -15,7 +15,7 @@ public class MenuItem {
 	
 	@Override
 	public String toString() {
-		return "¸Ş´º¸í : " + name + ", °¡°İ : " + price + ", Ä®·Î¸® : " + calorie + "";
+		return "ë©”ë‰´ëª… : " + name + ", ê°€ê²© : " + price + "ì›, ì¹¼ë¡œë¦¬ : " + calorie + "kcal";
 	}
 	
 	
