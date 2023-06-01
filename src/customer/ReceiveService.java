@@ -10,9 +10,9 @@ public class ReceiveService {
 
 	public String oneReceiveService() {
 		if (type == 1) {
-			return "Å×ÀÌºí ¼­ºñ½º";
+			return "í…Œì´ë¸” ì„œë¹„ìŠ¤";
 		} else{
-			return "ÇÈ¾÷";
+			return "í”½ì—…";
 		}
 	}
 }
