@@ -15,7 +15,7 @@
 
 ### 실행결과(손님)
 
-[손님 실행결과](http://www.example.com)
+![손님 실행결과](https://github.com/xotlr333/java-first-project/assets/81614820/3244da5b-fabc-455d-8f0a-053a7e078ffa)
 
 ### 실행결과(관리자)
 
